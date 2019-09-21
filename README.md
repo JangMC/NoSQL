@@ -5,5 +5,5 @@ A Chicago Tribune watchdog report noted that the city of Chicago had only 33 wor
 
 
 Included in this anaysis is:
-- NoSQL database Egnine (ElasticSearch) for indexing and data retrieval of Chicago Food Inspections
+- NoSQL database Engine (ElasticSearch) for indexing and data retrieval of Chicago Food Inspections
 - HeatMap to plot the children facilties that failed Chicago Food Inspections
